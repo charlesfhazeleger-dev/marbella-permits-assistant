@@ -1,0 +1,14 @@
+{
+  "name": "marbella-permits-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Grounded AI assistant backend for Marbella Permits (Render web service).",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
